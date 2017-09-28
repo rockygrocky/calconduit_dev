@@ -1,0 +1,2921 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Konstruct\n"
+"POT-Creation-Date: 2015-06-18 00:05+0700\n"
+"PO-Revision-Date: 2015-06-18 00:05+0700\n"
+"Last-Translator: \n"
+"Language-Team: LineThemes <support@linethemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:18
+msgid "Looks Like Something Went Wrong!"
+msgstr ""
+
+#: ../404.php:19
+msgid ""
+"The page you were looking for is not here. Maybe you want to perform a "
+"search?"
+msgstr ""
+
+#: ../comments.php:22
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:29 ../comments.php:47
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:30 ../comments.php:48
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:31 ../comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-portfolio-single.php:29
+msgid "Project Details"
+msgstr ""
+
+#: ../content-portfolio-single.php:33 ../includes/portfolio.php:153
+msgid "Construction Date"
+msgstr ""
+
+#: ../content-portfolio-single.php:43 ../includes/portfolio.php:159
+msgid "Location"
+msgstr ""
+
+#: ../content-portfolio-single.php:50 ../includes/portfolio.php:165
+msgid "Surface Area"
+msgstr ""
+
+#: ../content-portfolio-single.php:57 ../includes/portfolio.php:171
+msgid "Construction Investor"
+msgstr ""
+
+#: ../content-portfolio-single.php:64 ../includes/portfolio.php:177
+#: ../includes/shortcodes/counter.php:57
+msgid "Value"
+msgstr ""
+
+#: ../content-portfolio-single.php:71
+msgid "Categories:"
+msgstr ""
+
+#: ../content-portfolio-single.php:78
+msgid "Tags:"
+msgstr ""
+
+#: ../content-portfolio-single.php:86
+msgid "Project Description"
+msgstr ""
+
+#: ../content-portfolio.php:48
+msgid "Read More"
+msgstr ""
+
+#: ../content-portfolio.php:53
+msgid "Quick View"
+msgstr ""
+
+#: ../includes/admin/advanced.php:58 ../includes/admin/advanced.php:63
+msgid "Custom CSS"
+msgstr ""
+
+#: ../includes/admin/advanced.php:75
+msgid "Custom Javascript"
+msgstr ""
+
+#: ../includes/admin/advanced.php:94
+msgid "Advanced Settings"
+msgstr ""
+
+#: ../includes/admin/advanced.php:95
+msgid "Advanced"
+msgstr ""
+
+#: ../includes/admin/advanced.php:113
+msgid "Advanced Theme Settings"
+msgstr ""
+
+#: ../includes/admin/advanced.php:120
+msgid "Save Settings"
+msgstr ""
+
+#: ../includes/admin/advanced.php:171
+msgid "Updated!"
+msgstr ""
+
+#: ../includes/admin/sample-data.php:56 ../includes/admin/sample-data.php:69
+msgid "Sample Data Installation"
+msgstr ""
+
+#: ../includes/admin/sample-data.php:57
+msgid "Sample Data"
+msgstr ""
+
+#: ../includes/admin/sample-data.php:72
+msgid "There is following tasks will be run for install sample data:"
+msgstr ""
+
+#: ../includes/admin/sample-data.php:74 ../includes/admin/sample-data.php:86
+msgid "Import sample content"
+msgstr ""
+
+#: ../includes/admin/sample-data.php:75 ../includes/admin/sample-data.php:90
+msgid "Download media files"
+msgstr ""
+
+#: ../includes/admin/sample-data.php:79
+msgid "Install Sample Data"
+msgstr ""
+
+#: ../includes/admin/sample-data.php:97
+msgid "Congratulation! Sample data has been installed successfully"
+msgstr ""
+
+#: ../includes/admin/sample-data.php:116
+msgid ""
+"Attention!!! Your existing data will be removed when install sample data. "
+"Are you sure you want to install sample data?"
+msgstr ""
+
+#: ../includes/admin/sample-data.php:169
+#, php-format
+msgid "Sample data file not found: %s"
+msgstr ""
+
+#: ../includes/admin/sidebars.php:34
+msgid "remove this area"
+msgstr ""
+
+#: ../includes/admin/sidebars.php:35
+msgid "Are you sure you want to remove this widget area?"
+msgstr ""
+
+#: ../includes/admin/sidebars.php:57
+msgid "New custom widget area has been created"
+msgstr ""
+
+#: ../includes/admin/sidebars.php:58
+msgid "Custom widget area has been removed"
+msgstr ""
+
+#: ../includes/admin/sidebars.php:61
+msgid "Cannot create custom widget area, please try again"
+msgstr ""
+
+#: ../includes/admin/sidebars.php:62
+msgid "Invalid the ID of widget area"
+msgstr ""
+
+#: ../includes/admin/sidebars.php:76
+msgid "Create Widget Area"
+msgstr ""
+
+#: ../includes/admin/sidebars.php:78
+msgid "Enter name of the widget area:"
+msgstr ""
+
+#: ../includes/admin/sidebars.php:80
+msgid "Create"
+msgstr ""
+
+#: ../includes/admin/sidebars.php:87
+msgid "Remove Custom Widget Area"
+msgstr ""
+
+#: ../includes/admin/sidebars.php:89
+msgid "Select custom widget area to be removed:"
+msgstr ""
+
+#: ../includes/admin/sidebars.php:95
+#: ../libraries/options-plus/options/control/background.php:119
+msgid "Remove"
+msgstr ""
+
+#: ../includes/admin/sidebars.php:130
+#, php-format
+msgid "There are widgets for %s"
+msgstr ""
+
+#: ../includes/bootstrap.php:38
+msgid "Primary Menu"
+msgstr ""
+
+#: ../includes/bootstrap.php:83
+msgid "Primary Sidebar"
+msgstr ""
+
+#: ../includes/bootstrap.php:93
+msgid "Off-Canvas Sidebar"
+msgstr ""
+
+#: ../includes/bootstrap.php:104
+msgid "Footer Sidebar #1"
+msgstr ""
+
+#: ../includes/bootstrap.php:114
+msgid "Footer Sidebar #2"
+msgstr ""
+
+#: ../includes/bootstrap.php:124
+msgid "Footer Sidebar #3"
+msgstr ""
+
+#: ../includes/bootstrap.php:134
+msgid "Footer Sidebar #4"
+msgstr ""
+
+#: ../includes/bootstrap.php:270
+#: ../libraries/plugin-activation/plugin-activation.php:161
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../includes/bootstrap.php:271
+#: ../libraries/plugin-activation/plugin-activation.php:162
+msgid "Install Plugins"
+msgstr ""
+
+#: ../includes/bootstrap.php:272
+#: ../libraries/plugin-activation/plugin-activation.php:163
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../includes/bootstrap.php:273
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../includes/bootstrap.php:284
+#: ../libraries/plugin-activation/plugin-activation.php:175
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../includes/bootstrap.php:285
+#: ../libraries/plugin-activation/plugin-activation.php:177
+#: ../libraries/plugin-activation/plugin-activation.php:1952
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../includes/bootstrap.php:286
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../includes/helpers.php:62
+msgid "Classic"
+msgstr ""
+
+#: ../includes/helpers.php:63 ../includes/integrate/visual-composer.php:105
+msgid "Center"
+msgstr ""
+
+#: ../includes/helpers.php:64 ../includes/integrate/visual-composer.php:104
+#: ../includes/integrate/visual-composer.php:118
+#: ../includes/shortcodes/iconbox.php:97
+msgid "Left"
+msgstr ""
+
+#: ../includes/helpers.php:65
+msgid "Modern"
+msgstr ""
+
+#: ../includes/helpers.php:66
+msgid "Transparent"
+msgstr ""
+
+#: ../includes/helpers.php:67 ../includes/shortcodes/testimonial.php:47
+msgid "Vertical"
+msgstr ""
+
+#: ../includes/helpers.php:68
+#: ../libraries/options-plus/options/control/background.php:195
+msgid "Fixed"
+msgstr ""
+
+#: ../includes/helpers.php:69
+msgid "Semi-Transparent"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:30
+#: ../libraries/options-plus/options/control/typography.php:158
+msgid "Font Color"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:32
+msgid "Select font color"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:38
+msgid "Row ID"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:40
+msgid "Enter custom ID for this row"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:45
+msgid "Enable Content Width 100%"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:48
+#: ../includes/integrate/visual-composer.php:58
+#: ../includes/integrate/visual-composer.php:167
+#: ../includes/shortcodes/countdown.php:46
+#: ../includes/shortcodes/countdown.php:53
+#: ../includes/shortcodes/countdown.php:60
+#: ../includes/shortcodes/countdown.php:67
+#: ../includes/shortcodes/countdown.php:74
+#: ../includes/shortcodes/countdown.php:81
+#: ../includes/shortcodes/countdown.php:88
+#: ../includes/shortcodes/iconlist.php:105
+#: ../includes/shortcodes/member.php:88
+#: ../includes/shortcodes/portfolio.php:61
+#: ../includes/shortcodes/portfolio.php:70 ../includes/shortcodes/posts.php:96
+#: ../includes/shortcodes/posts.php:110
+#: ../includes/shortcodes/testimonial.php:70
+#: ../includes/shortcodes/testimonial.php:77
+#: ../includes/shortcodes/testimonial.php:84
+#: ../includes/shortcodes/testimonial.php:91
+msgid "Yes, please"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:54
+msgid "Enable Background Parallax Effect"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:56
+#: ../includes/integrate/visual-composer.php:66
+#: ../includes/integrate/visual-composer.php:74
+#: ../includes/integrate/visual-composer.php:82
+msgid "Design options"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:64
+msgid "Parallax Animation Speed"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:72
+msgid "Parallax X Offset"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:80
+msgid "Parallax Y Offset"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:91
+msgid "Tabs Style"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:94
+msgid "Tab Style 1"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:95
+msgid "Tab Style 2"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:101
+msgid "Tabs Alignment"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:106
+#: ../includes/integrate/visual-composer.php:119
+#: ../includes/shortcodes/iconbox.php:99
+msgid "Right"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:115
+msgid "Navigator Position"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:125
+#: ../includes/integrate/visual-composer.php:138
+#: ../includes/shortcodes/portfolio.php:29
+#: ../includes/widgets/recent-portfolios.php:96
+msgid "Style"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:128
+#: ../includes/integrate/visual-composer.php:141
+#: ../includes/integrate/visual-composer.php:154
+msgid "Style 1"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:129
+#: ../includes/integrate/visual-composer.php:142
+#: ../includes/integrate/visual-composer.php:155
+msgid "Style 2"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:151
+msgid "Bars Style"
+msgstr ""
+
+#: ../includes/integrate/visual-composer.php:164
+msgid "Enable Lightbox For This Image"
+msgstr ""
+
+#: ../includes/options-definition.php:32
+msgid "Site Information"
+msgstr ""
+
+#: ../includes/options-definition.php:33
+msgid ""
+"This section have basic information of your site, just change it to match "
+"with you need."
+msgstr ""
+
+#: ../includes/options-definition.php:40
+msgid "Site Name"
+msgstr ""
+
+#: ../includes/options-definition.php:47
+msgid "Site Tagline"
+msgstr ""
+
+#: ../includes/options-definition.php:56
+msgid "Static Front Page"
+msgstr ""
+
+#: ../includes/options-definition.php:57
+msgid "Switch this option to use static page or posts page on the home"
+msgstr ""
+
+#: ../includes/options-definition.php:65
+msgid "Posts"
+msgstr ""
+
+#: ../includes/options-definition.php:66
+msgid "Static Page"
+msgstr ""
+
+#: ../includes/options-definition.php:73
+msgid "Front Page"
+msgstr ""
+
+#: ../includes/options-definition.php:80
+msgid "Posts Page"
+msgstr ""
+
+#: ../includes/options-definition.php:88
+msgid "Misc"
+msgstr ""
+
+#: ../includes/options-definition.php:89
+msgid ""
+"This section have options that allow to adding bookmark icon, social "
+"icons, ..."
+msgstr ""
+
+#: ../includes/options-definition.php:94
+msgid "Enable Go Top Button"
+msgstr ""
+
+#: ../includes/options-definition.php:102
+msgid "Custom Favicon"
+msgstr ""
+
+#: ../includes/options-definition.php:109
+msgid "Social Links"
+msgstr ""
+
+#: ../includes/options-definition.php:124
+msgid "Body Font"
+msgstr ""
+
+#: ../includes/options-definition.php:125
+msgid "You can modify the font family, size, color, ... for global content."
+msgstr ""
+
+#: ../includes/options-definition.php:143
+msgid "Heading Font"
+msgstr ""
+
+#: ../includes/options-definition.php:144
+msgid "You can modify the font options for your headings. h1, h2, h3, h4, ..."
+msgstr ""
+
+#: ../includes/options-definition.php:163
+msgid "H1 Font Size (px)"
+msgstr ""
+
+#: ../includes/options-definition.php:164
+msgid "H2 Font Size (px)"
+msgstr ""
+
+#: ../includes/options-definition.php:165
+msgid "H3 Font Size (px)"
+msgstr ""
+
+#: ../includes/options-definition.php:166
+msgid "H4 Font Size (px)"
+msgstr ""
+
+#: ../includes/options-definition.php:167
+msgid "H5 Font Size (px)"
+msgstr ""
+
+#: ../includes/options-definition.php:168
+msgid "H6 Font Size (px)"
+msgstr ""
+
+#: ../includes/options-definition.php:179
+msgid "Menu Font"
+msgstr ""
+
+#: ../includes/options-definition.php:180
+msgid "Select your custom font options for your main navigation menu."
+msgstr ""
+
+#: ../includes/options-definition.php:198
+msgid "Font Subsets"
+msgstr ""
+
+#: ../includes/options-definition.php:199
+msgid ""
+"Sometime you need to load extra font subsets for another languages, this "
+"options will allow to do it."
+msgstr ""
+
+#: ../includes/options-definition.php:205
+msgid "Cyrillic"
+msgstr ""
+
+#: ../includes/options-definition.php:212
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: ../includes/options-definition.php:219
+msgid "Greek"
+msgstr ""
+
+#: ../includes/options-definition.php:225
+msgid "Greek Extended"
+msgstr ""
+
+#: ../includes/options-definition.php:232
+msgid "Vietnamese"
+msgstr ""
+
+#: ../includes/options-definition.php:239
+msgid "Latin Extended"
+msgstr ""
+
+#: ../includes/options-definition.php:246
+msgid "Devanagari"
+msgstr ""
+
+#: ../includes/options-definition.php:257
+#: ../includes/options-definition.php:263
+#: ../includes/options-definition.php:1697
+msgid "Scheme Color"
+msgstr ""
+
+#: ../includes/options-definition.php:258
+msgid "Select the color that will be used for theme color."
+msgstr ""
+
+#: ../includes/options-definition.php:272
+#: ../includes/options-definition.php:1705 ../includes/shortcodes/posts.php:47
+#: ../includes/widgets/recent-posts.php:104
+msgid "Layout"
+msgstr ""
+
+#: ../includes/options-definition.php:273
+msgid ""
+"Choose between a full or a boxed layout to set how your website's layout "
+"will look like."
+msgstr ""
+
+#: ../includes/options-definition.php:278
+#: ../includes/options-definition.php:1718
+msgid "Display Style"
+msgstr ""
+
+#: ../includes/options-definition.php:283
+#: ../includes/options-definition.php:1724
+msgid "Wide"
+msgstr ""
+
+#: ../includes/options-definition.php:288
+#: ../includes/options-definition.php:1729
+msgid "Boxed"
+msgstr ""
+
+#: ../includes/options-definition.php:296
+msgid "Boxed Background"
+msgstr ""
+
+#: ../includes/options-definition.php:312
+msgid "Content Width"
+msgstr ""
+
+#: ../includes/options-definition.php:321
+#: ../includes/options-definition.php:1038
+#: ../includes/options-definition.php:1080
+msgid "Sidebar"
+msgstr ""
+
+#: ../includes/options-definition.php:322
+msgid "Select the position of sidebar that you wish to display."
+msgstr ""
+
+#: ../includes/options-definition.php:326
+#: ../includes/options-definition.php:1016
+#: ../includes/options-definition.php:1059
+#: ../includes/options-definition.php:1751
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../includes/options-definition.php:331
+#: ../includes/options-definition.php:769
+#: ../includes/options-definition.php:909
+#: ../includes/options-definition.php:1022
+#: ../includes/options-definition.php:1064
+#: ../includes/options-definition.php:1132
+#: ../includes/options-definition.php:1269
+#: ../includes/options-definition.php:1757
+msgid "No Sidebar"
+msgstr ""
+
+#: ../includes/options-definition.php:335
+#: ../includes/options-definition.php:773
+#: ../includes/options-definition.php:913
+#: ../includes/options-definition.php:1026
+#: ../includes/options-definition.php:1068
+#: ../includes/options-definition.php:1136
+#: ../includes/options-definition.php:1273
+#: ../includes/options-definition.php:1761
+msgid "Sidebar Left"
+msgstr ""
+
+#: ../includes/options-definition.php:339
+#: ../includes/options-definition.php:777
+#: ../includes/options-definition.php:917
+#: ../includes/options-definition.php:1030
+#: ../includes/options-definition.php:1072
+#: ../includes/options-definition.php:1140
+#: ../includes/options-definition.php:1277
+#: ../includes/options-definition.php:1765
+msgid "Sidebar Right"
+msgstr ""
+
+#: ../includes/options-definition.php:347
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../includes/options-definition.php:357
+#: ../includes/options-definition.php:1783
+msgid "Page Title"
+msgstr ""
+
+#: ../includes/options-definition.php:358
+#: ../includes/options-definition.php:1784
+msgid "In this section you can turn on/off or modify style for the Page Title."
+msgstr ""
+
+#: ../includes/options-definition.php:362
+#: ../includes/options-definition.php:742
+#: ../includes/options-definition.php:1106
+msgid "Enable Page Title"
+msgstr ""
+
+#: ../includes/options-definition.php:370
+msgid "Background"
+msgstr ""
+
+#: ../includes/options-definition.php:386
+#: ../includes/options-definition.php:657
+#: ../includes/options-definition.php:711
+#: ../includes/options-definition.php:2078
+#: ../includes/options-definition.php:2123
+msgid "Text Color"
+msgstr ""
+
+#: ../includes/options-definition.php:392
+msgid "Enable Breadcrumb"
+msgstr ""
+
+#: ../includes/options-definition.php:399
+msgid "Breadcrumb Prefix"
+msgstr ""
+
+#: ../includes/options-definition.php:401
+#: ../templates/blocks/content/header.php:26
+msgid "You are here:"
+msgstr ""
+
+#: ../includes/options-definition.php:406
+msgid "Breadcrumb Separator"
+msgstr ""
+
+#: ../includes/options-definition.php:418
+#: ../includes/options-definition.php:1913
+msgid "Custom Logo"
+msgstr ""
+
+#: ../includes/options-definition.php:419
+msgid ""
+"In this section You can upload your own custom logo, change the way your "
+"logo can be displayed"
+msgstr ""
+
+#: ../includes/options-definition.php:425
+msgid "Use Logo Image"
+msgstr ""
+
+#: ../includes/options-definition.php:432
+msgid "Display Site Tagline"
+msgstr ""
+
+#: ../includes/options-definition.php:439
+#: ../includes/options-definition.php:1926
+msgid "Logo"
+msgstr ""
+
+#: ../includes/options-definition.php:446
+msgid "Stick Header Logo"
+msgstr ""
+
+#: ../includes/options-definition.php:453
+#: ../includes/options-definition.php:1940
+msgid "Logo Size"
+msgstr ""
+
+#: ../includes/options-definition.php:456
+#: ../includes/options-definition.php:1943
+msgid "Width (px)"
+msgstr ""
+
+#: ../includes/options-definition.php:457
+#: ../includes/options-definition.php:1944
+msgid "Height (px)"
+msgstr ""
+
+#: ../includes/options-definition.php:464
+#: ../includes/options-definition.php:1951
+msgid "Logo Margin"
+msgstr ""
+
+#: ../includes/options-definition.php:467
+#: ../includes/options-definition.php:1954
+msgid "Top (px)"
+msgstr ""
+
+#: ../includes/options-definition.php:468
+#: ../includes/options-definition.php:1955
+msgid "Bottom (px)"
+msgstr ""
+
+#: ../includes/options-definition.php:477
+#: ../includes/options-definition.php:1963
+msgid "Navigator"
+msgstr ""
+
+#: ../includes/options-definition.php:478
+msgid ""
+"Just select your menu that you wish assign it to the location on the theme"
+msgstr ""
+
+#: ../includes/options-definition.php:485
+#: ../includes/options-definition.php:1979
+msgid "&dash; Select &dash;"
+msgstr ""
+
+#: ../includes/options-definition.php:509
+#: ../includes/options-definition.php:516
+#: ../includes/options-definition.php:1878
+msgid "Header Style"
+msgstr ""
+
+#: ../includes/options-definition.php:510
+msgid ""
+"Change the header style, toggle sticky header feature and turn on/off extra "
+"menu icons"
+msgstr ""
+
+#: ../includes/options-definition.php:524
+#: ../includes/options-definition.php:1886
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: ../includes/options-definition.php:530
+#: ../includes/options-definition.php:1892
+msgid "Show Cart Menu"
+msgstr ""
+
+#: ../includes/options-definition.php:538
+#: ../includes/options-definition.php:1899
+msgid "Show Search Menu"
+msgstr ""
+
+#: ../includes/options-definition.php:545
+#: ../includes/options-definition.php:1906
+msgid "Show Off-Canvas Menu"
+msgstr ""
+
+#: ../includes/options-definition.php:553
+#: ../includes/options-definition.php:1815
+msgid "Top Bar"
+msgstr ""
+
+#: ../includes/options-definition.php:554
+msgid "Turn on/off the top bar and change it styles"
+msgstr ""
+
+#: ../includes/options-definition.php:558
+msgid "Enable Topbar"
+msgstr ""
+
+#: ../includes/options-definition.php:565
+#: ../includes/options-definition.php:1835
+msgid "Topbar Background"
+msgstr ""
+
+#: ../includes/options-definition.php:572
+#: ../includes/options-definition.php:1842
+msgid "Topbar Text Color"
+msgstr ""
+
+#: ../includes/options-definition.php:579
+#: ../includes/options-definition.php:611
+#: ../includes/options-definition.php:1849
+#: ../includes/shortcodes/iconbox.php:65
+#: ../includes/shortcodes/iconlist.php:97 ../includes/shortcodes/member.php:49
+#: ../includes/shortcodes/testimonial.php:150
+msgid "Content"
+msgstr ""
+
+#: ../includes/options-definition.php:581
+msgid ""
+"<i class=\"fa fa-phone\"></i> Call Us Today! 1.555.555.555 <span class="
+"\"spacer\"></span> <i class=\"fa fa-envelope-o\"></i> support@linethemes.com"
+msgstr ""
+
+#: ../includes/options-definition.php:586
+#: ../includes/options-definition.php:725
+#: ../includes/options-definition.php:1856
+msgid "Enable Social Links"
+msgstr ""
+
+#: ../includes/options-definition.php:598
+#: ../includes/options-definition.php:2012
+msgid "Page Callout"
+msgstr ""
+
+#: ../includes/options-definition.php:599
+#: ../includes/options-definition.php:2013
+msgid "You can modify content and styles for the page callout section."
+msgstr ""
+
+#: ../includes/options-definition.php:604
+msgid "Enable Page Callout"
+msgstr ""
+
+#: ../includes/options-definition.php:613
+msgid "Try building your website using our all powerful theme now!"
+msgstr ""
+
+#: ../includes/options-definition.php:618
+msgid "Button Text"
+msgstr ""
+
+#: ../includes/options-definition.php:620
+msgid "Purchase Now"
+msgstr ""
+
+#: ../includes/options-definition.php:625
+msgid "Button Link"
+msgstr ""
+
+#: ../includes/options-definition.php:632
+#: ../includes/options-definition.php:2053
+msgid "Button Target"
+msgstr ""
+
+#: ../includes/options-definition.php:635
+#: ../includes/options-definition.php:2056
+msgid "New Window"
+msgstr ""
+
+#: ../includes/options-definition.php:636
+#: ../includes/options-definition.php:2057
+msgid "Same Window"
+msgstr ""
+
+#: ../includes/options-definition.php:643
+#: ../includes/options-definition.php:2064
+msgid "Button Addition Class"
+msgstr ""
+
+#: ../includes/options-definition.php:650
+#: ../includes/options-definition.php:2071
+msgid "Background Color"
+msgstr ""
+
+#: ../includes/options-definition.php:666
+#: ../includes/options-definition.php:2086
+msgid "Footer Widgets"
+msgstr ""
+
+#: ../includes/options-definition.php:667
+#: ../includes/options-definition.php:2087
+msgid ""
+"This section allow to change the layout and styles of footer widgets to "
+"match as you need."
+msgstr ""
+
+#: ../includes/options-definition.php:671
+msgid "Enable Footer Widgets"
+msgstr ""
+
+#: ../includes/options-definition.php:678
+msgid "Widgets Layout"
+msgstr ""
+
+#: ../includes/options-definition.php:695
+#: ../includes/options-definition.php:2115
+msgid "Widgets Background"
+msgstr ""
+
+#: ../includes/options-definition.php:719
+#: ../includes/options-definition.php:2131
+msgid "Custom Footer"
+msgstr ""
+
+#: ../includes/options-definition.php:720
+#: ../includes/options-definition.php:2132
+msgid ""
+"You can change the copyright text, show/hide the social icons on the footer."
+msgstr ""
+
+#: ../includes/options-definition.php:732
+#: ../includes/options-definition.php:2151
+msgid "Copyright"
+msgstr ""
+
+#: ../includes/options-definition.php:734
+#, php-format
+msgid ""
+"Copyright &copy; 2014 <a href=\"%s\" target=\"_blank\">LineThemes</a>. All "
+"rights reserved"
+msgstr ""
+
+#: ../includes/options-definition.php:749
+msgid "Blog Page Title"
+msgstr ""
+
+#: ../includes/options-definition.php:751
+#: ../includes/options-definition.php:2275 ../includes/options.php:45
+#: ../includes/options.php:118
+msgid "Blog"
+msgstr ""
+
+#: ../includes/options-definition.php:758
+msgid "Blog List"
+msgstr ""
+
+#: ../includes/options-definition.php:759
+#: ../includes/options-definition.php:2276
+msgid "All options in this section will be used to make style for blog page."
+msgstr ""
+
+#: ../includes/options-definition.php:764
+#: ../includes/options-definition.php:1127
+msgid "List Sidebar Position"
+msgstr ""
+
+#: ../includes/options-definition.php:786
+msgid "Blog List Sidebar"
+msgstr ""
+
+#: ../includes/options-definition.php:792
+#: ../includes/options-definition.php:1155
+#: ../includes/options-definition.php:2168
+#: ../includes/options-definition.php:2281
+msgid "List Layout"
+msgstr ""
+
+#: ../includes/options-definition.php:797
+#: ../includes/options-definition.php:2286
+msgid "List Medium"
+msgstr ""
+
+#: ../includes/options-definition.php:801
+#: ../includes/options-definition.php:2290
+msgid "List Large"
+msgstr ""
+
+#: ../includes/options-definition.php:805
+#: ../includes/options-definition.php:969
+#: ../includes/options-definition.php:1160
+#: ../includes/options-definition.php:1317
+#: ../includes/options-definition.php:2174
+#: ../includes/options-definition.php:2294
+#: ../includes/shortcodes/portfolio.php:32 ../includes/shortcodes/posts.php:50
+#: ../includes/widgets/recent-portfolios.php:100
+#: ../includes/widgets/recent-posts.php:108
+msgid "Grid"
+msgstr ""
+
+#: ../includes/options-definition.php:809
+#: ../includes/options-definition.php:1318
+#: ../includes/options-definition.php:2298
+#: ../includes/shortcodes/portfolio.php:33
+#: ../includes/widgets/recent-portfolios.php:101
+msgid "Grid Masonry"
+msgstr ""
+
+#: ../includes/options-definition.php:818
+#: ../includes/options-definition.php:1177
+#: ../includes/options-definition.php:2191
+#: ../includes/options-definition.php:2307
+#: ../includes/shortcodes/portfolio.php:40 ../includes/shortcodes/posts.php:57
+msgid "Grid Columns"
+msgstr ""
+
+#: ../includes/options-definition.php:821
+#: ../includes/options-definition.php:989
+#: ../includes/options-definition.php:1180
+#: ../includes/options-definition.php:1331
+#: ../includes/options-definition.php:2194
+#: ../includes/options-definition.php:2310
+#: ../includes/shortcodes/portfolio.php:43 ../includes/shortcodes/posts.php:62
+#: ../includes/widgets/recent-portfolios.php:112
+#: ../includes/widgets/recent-posts.php:121
+msgid "2 Columns"
+msgstr ""
+
+#: ../includes/options-definition.php:822
+#: ../includes/options-definition.php:990
+#: ../includes/options-definition.php:1181
+#: ../includes/options-definition.php:1332
+#: ../includes/options-definition.php:2195
+#: ../includes/options-definition.php:2311
+#: ../includes/shortcodes/portfolio.php:44 ../includes/shortcodes/posts.php:63
+#: ../includes/widgets/recent-portfolios.php:113
+#: ../includes/widgets/recent-posts.php:122
+msgid "3 Columns"
+msgstr ""
+
+#: ../includes/options-definition.php:823
+#: ../includes/options-definition.php:991
+#: ../includes/options-definition.php:1182
+#: ../includes/options-definition.php:1333
+#: ../includes/options-definition.php:2196
+#: ../includes/options-definition.php:2312
+#: ../includes/shortcodes/portfolio.php:45 ../includes/shortcodes/posts.php:64
+#: ../includes/widgets/recent-portfolios.php:114
+#: ../includes/widgets/recent-posts.php:123
+msgid "4 Columns"
+msgstr ""
+
+#: ../includes/options-definition.php:829
+#: ../includes/options-definition.php:2318
+msgid "Auto Post Excepts"
+msgstr ""
+
+#: ../includes/options-definition.php:836
+#: ../includes/options-definition.php:2325
+msgid "Post Excepts Length"
+msgstr ""
+
+#: ../includes/options-definition.php:843
+#: ../includes/options-definition.php:2332
+msgid "Show Post Meta"
+msgstr ""
+
+#: ../includes/options-definition.php:850
+#: ../includes/options-definition.php:2339
+msgid "Show Read More"
+msgstr ""
+
+#: ../includes/options-definition.php:857
+#: ../includes/options-definition.php:2346
+#: ../includes/shortcodes/iconbox.php:85 ../includes/shortcodes/posts.php:115
+#: ../includes/widgets/recent-posts.php:169
+msgid "Read More Text"
+msgstr ""
+
+#: ../includes/options-definition.php:859
+#: ../includes/options-definition.php:2348
+msgid "Continue Read &rarr;"
+msgstr ""
+
+#: ../includes/options-definition.php:864
+#: ../includes/options-definition.php:1196
+#: ../includes/options-definition.php:2210
+#: ../includes/options-definition.php:2353
+msgid "Pagination Style"
+msgstr ""
+
+#: ../includes/options-definition.php:870
+#: ../includes/options-definition.php:1202
+#: ../includes/options-definition.php:2216
+#: ../includes/options-definition.php:2359
+msgid "Pager"
+msgstr ""
+
+#: ../includes/options-definition.php:874
+#: ../includes/options-definition.php:1206
+#: ../includes/options-definition.php:2220
+#: ../includes/options-definition.php:2363
+msgid "Numeric"
+msgstr ""
+
+#: ../includes/options-definition.php:878
+#: ../includes/options-definition.php:1210
+#: ../includes/options-definition.php:2224
+#: ../includes/options-definition.php:2367
+msgid "Pager & Numeric"
+msgstr ""
+
+#: ../includes/options-definition.php:882
+#: ../includes/options-definition.php:1214
+#: ../includes/options-definition.php:2228
+#: ../includes/options-definition.php:2371
+#: ../templates/blocks/pagination.php:54
+msgid "Load More"
+msgstr ""
+
+#: ../includes/options-definition.php:890
+#: ../includes/options-definition.php:1222
+#: ../includes/options-definition.php:2236
+#: ../includes/options-definition.php:2379
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../includes/options-definition.php:898
+msgid "Blog Single"
+msgstr ""
+
+#: ../includes/options-definition.php:899
+msgid ""
+"Also, you can change the style for blog single to make your site unique."
+msgstr ""
+
+#: ../includes/options-definition.php:904
+#: ../includes/options-definition.php:1264
+msgid "Single Sidebar Position"
+msgstr ""
+
+#: ../includes/options-definition.php:926
+msgid "Blog Single Sidebar"
+msgstr ""
+
+#: ../includes/options-definition.php:932
+msgid "Show Post Navigator"
+msgstr ""
+
+#: ../includes/options-definition.php:939
+msgid "Post Navigator Sticky"
+msgstr ""
+
+#: ../includes/options-definition.php:946
+msgid "Show Author Box"
+msgstr ""
+
+#: ../includes/options-definition.php:953
+msgid "Show Related Posts"
+msgstr ""
+
+#: ../includes/options-definition.php:960
+msgid "Related Posts Style"
+msgstr ""
+
+#: ../includes/options-definition.php:965
+msgid "Simple List"
+msgstr ""
+
+#: ../includes/options-definition.php:973
+#: ../includes/options-definition.php:1164
+#: ../includes/options-definition.php:2178
+msgid "Masonry Grid"
+msgstr ""
+
+#: ../includes/options-definition.php:977
+#: ../includes/options-definition.php:1320 ../includes/shortcodes/posts.php:52
+#: ../includes/widgets/recent-posts.php:110
+msgid "Carousel"
+msgstr ""
+
+#: ../includes/options-definition.php:986
+msgid "Columns Of Related Posts"
+msgstr ""
+
+#: ../includes/options-definition.php:998
+msgid "Number Of Related Posts"
+msgstr ""
+
+#: ../includes/options-definition.php:1010
+msgid "Products Listing"
+msgstr ""
+
+#: ../includes/options-definition.php:1011
+msgid ""
+"This section is designed for only Woocommerce, it will be applied for page "
+"that listing all products."
+msgstr ""
+
+#: ../includes/options-definition.php:1045
+msgid "Products Per Page"
+msgstr ""
+
+#: ../includes/options-definition.php:1053
+msgid "Product Details"
+msgstr ""
+
+#: ../includes/options-definition.php:1054
+msgid ""
+"Like \"Blog Single\" section, you can change style for product details page."
+msgstr ""
+
+#: ../includes/options-definition.php:1086
+msgid "Show Related Products"
+msgstr ""
+
+#: ../includes/options-definition.php:1094
+msgid "Number Of Related Products"
+msgstr ""
+
+#: ../includes/options-definition.php:1113
+msgid "Custom Page Title"
+msgstr ""
+
+#: ../includes/options-definition.php:1114
+#: ../includes/options-definition.php:2163 ../includes/options.php:46
+#: ../includes/options.php:117
+msgid "Portfolio"
+msgstr ""
+
+#: ../includes/options-definition.php:1121
+msgid "Portfolio List"
+msgstr ""
+
+#: ../includes/options-definition.php:1122
+#: ../includes/options-definition.php:2164
+msgid ""
+"Change options in this section to custom style for portfolio listing page."
+msgstr ""
+
+#: ../includes/options-definition.php:1149
+msgid "Portfolio List Sidebar"
+msgstr ""
+
+#: ../includes/options-definition.php:1168
+#: ../includes/options-definition.php:1319
+#: ../includes/options-definition.php:2182
+#: ../includes/shortcodes/portfolio.php:34
+#: ../includes/widgets/recent-portfolios.php:102
+msgid "Grid No Margin"
+msgstr ""
+
+#: ../includes/options-definition.php:1183
+#: ../includes/options-definition.php:1334
+#: ../includes/options-definition.php:2197
+#: ../includes/shortcodes/portfolio.php:46
+#: ../includes/widgets/recent-portfolios.php:115
+msgid "5 Columns"
+msgstr ""
+
+#: ../includes/options-definition.php:1190
+msgid "Show Items Filter"
+msgstr ""
+
+#: ../includes/options-definition.php:1229
+#: ../includes/options-definition.php:2243
+msgid "Order By"
+msgstr ""
+
+#: ../includes/options-definition.php:1232
+#: ../includes/options-definition.php:2246
+msgid "Date"
+msgstr ""
+
+#: ../includes/options-definition.php:1233
+#: ../includes/options-definition.php:2247
+msgid "ID"
+msgstr ""
+
+#: ../includes/options-definition.php:1234
+#: ../includes/options-definition.php:2248
+msgid "Author"
+msgstr ""
+
+#: ../includes/options-definition.php:1235
+#: ../includes/options-definition.php:2249
+#: ../includes/shortcodes/counter.php:51 ../includes/shortcodes/iconbox.php:45
+#: ../includes/shortcodes/imagebox.php:33
+#: ../includes/shortcodes/openhours.php:32
+msgid "Title"
+msgstr ""
+
+#: ../includes/options-definition.php:1236
+#: ../includes/options-definition.php:2250
+msgid "Modified"
+msgstr ""
+
+#: ../includes/options-definition.php:1237
+#: ../includes/options-definition.php:2251
+msgid "Random"
+msgstr ""
+
+#: ../includes/options-definition.php:1238
+#: ../includes/options-definition.php:2252
+msgid "Comment count"
+msgstr ""
+
+#: ../includes/options-definition.php:1239
+#: ../includes/options-definition.php:2253
+msgid "Menu order"
+msgstr ""
+
+#: ../includes/options-definition.php:1246
+#: ../includes/options-definition.php:2260
+msgid "Order Direction"
+msgstr ""
+
+#: ../includes/options-definition.php:1249
+#: ../includes/options-definition.php:2263
+msgid "Ascending"
+msgstr ""
+
+#: ../includes/options-definition.php:1250
+#: ../includes/options-definition.php:2264
+msgid "Descending"
+msgstr ""
+
+#: ../includes/options-definition.php:1258
+msgid "Single Portfolio"
+msgstr ""
+
+#: ../includes/options-definition.php:1259
+msgid ""
+"Change the layout, sidebar, navigator, ... for the single portfolio page."
+msgstr ""
+
+#: ../includes/options-definition.php:1286
+msgid "Single Portfolio Sidebar"
+msgstr ""
+
+#: ../includes/options-definition.php:1292
+msgid "Show Single Navigator"
+msgstr ""
+
+#: ../includes/options-definition.php:1299
+msgid "Single Sticky Navigator"
+msgstr ""
+
+#: ../includes/options-definition.php:1306
+msgid "Show Related Portfolios"
+msgstr ""
+
+#: ../includes/options-definition.php:1314
+msgid "Related Portfolio Style"
+msgstr ""
+
+#: ../includes/options-definition.php:1321
+msgid "Carousel No Margin"
+msgstr ""
+
+#: ../includes/options-definition.php:1328
+msgid "Columns Count"
+msgstr ""
+
+#: ../includes/options-definition.php:1330 ../includes/shortcodes/posts.php:61
+#: ../includes/widgets/recent-posts.php:120
+msgid "1 Column"
+msgstr ""
+
+#: ../includes/options-definition.php:1342
+msgid "Number Of Related Portfolios"
+msgstr ""
+
+#: ../includes/options-definition.php:1352
+msgid "Enable Under Construction"
+msgstr ""
+
+#: ../includes/options-definition.php:1360
+msgid "Under Construction Page"
+msgstr ""
+
+#: ../includes/options-definition.php:1366
+msgid "Role-based Access Permission"
+msgstr ""
+
+#: ../includes/options-definition.php:1590
+msgid "Gallery Images"
+msgstr ""
+
+#: ../includes/options-definition.php:1591
+msgid ""
+"Add images to create a slider for this post, post format \"Gallery\" must be "
+"checked."
+msgstr ""
+
+#: ../includes/options-definition.php:1605
+msgid "Video URL"
+msgstr ""
+
+#: ../includes/options-definition.php:1606
+msgid ""
+"Add an URL that linked to a video, it can be Youtube, Vimeo, ... The added "
+"video will be displayed on top of the page."
+msgstr ""
+
+#: ../includes/options-definition.php:1619
+msgid "Audio URL"
+msgstr ""
+
+#: ../includes/options-definition.php:1620
+msgid ""
+"This field will be applied when post format \"Audio\" is checked. A audio "
+"player will be displayed on top of the post."
+msgstr ""
+
+#: ../includes/options-definition.php:1633
+msgid "External Link"
+msgstr ""
+
+#: ../includes/options-definition.php:1634
+msgid ""
+"When post format \"Link\" is selected you need provide a link to this field."
+msgstr ""
+
+#: ../includes/options-definition.php:1671
+msgid "Page Cover"
+msgstr ""
+
+#: ../includes/options-definition.php:1672
+msgid ""
+"This is an special option, it allow to input any content as you wish. The "
+"entered content will be displayed on top of the page, page header will show "
+"at below."
+msgstr ""
+
+#: ../includes/options-definition.php:1684
+msgid "Styles"
+msgstr ""
+
+#: ../includes/options-definition.php:1685
+msgid "Select the scheme color that will be applied for this page only."
+msgstr ""
+
+#: ../includes/options-definition.php:1690
+msgid "Enable Custom Styles"
+msgstr ""
+
+#: ../includes/options-definition.php:1706
+msgid ""
+"Choose between a full or a boxed layout to set how this page layout will "
+"look like."
+msgstr ""
+
+#: ../includes/options-definition.php:1711
+msgid "Enable Custom Layout"
+msgstr ""
+
+#: ../includes/options-definition.php:1736
+msgid "Boxed Layout Background"
+msgstr ""
+
+#: ../includes/options-definition.php:1772
+msgid "Custom Sidebar"
+msgstr ""
+
+#: ../includes/options-definition.php:1789
+msgid "Enable Custom Page Title"
+msgstr ""
+
+#: ../includes/options-definition.php:1796
+msgid "Display Title Bar On This Page"
+msgstr ""
+
+#: ../includes/options-definition.php:1803
+msgid "Page Header Background"
+msgstr ""
+
+#: ../includes/options-definition.php:1816
+msgid "Turn on/off the top bar and change it styles."
+msgstr ""
+
+#: ../includes/options-definition.php:1821
+msgid "Enable Custom Topbar"
+msgstr ""
+
+#: ../includes/options-definition.php:1828
+msgid "Display Topbar On This Page"
+msgstr ""
+
+#: ../includes/options-definition.php:1864
+msgid "Custom Header"
+msgstr ""
+
+#: ../includes/options-definition.php:1865
+msgid ""
+"Change the header style, toggle sticky header feature and turn on/off extra "
+"menu icons."
+msgstr ""
+
+#: ../includes/options-definition.php:1870
+msgid "Enable Custom Header"
+msgstr ""
+
+#: ../includes/options-definition.php:1914
+msgid ""
+"In this section You can upload your own custom logo, change the way your "
+"logo can be displayed."
+msgstr ""
+
+#: ../includes/options-definition.php:1920
+msgid "Enable Custom Logo"
+msgstr ""
+
+#: ../includes/options-definition.php:1933
+msgid "Logo For Sticky Header"
+msgstr ""
+
+#: ../includes/options-definition.php:1964
+msgid ""
+"Just select your menu that you wish assign it to the location on the theme."
+msgstr ""
+
+#: ../includes/options-definition.php:1970
+msgid "Enable Custom Navigator"
+msgstr ""
+
+#: ../includes/options-definition.php:2001
+msgid "Load One Page Navigator Script"
+msgstr ""
+
+#: ../includes/options-definition.php:2018
+msgid "Enable Custom Page Callout"
+msgstr ""
+
+#: ../includes/options-definition.php:2025
+msgid "Display Callout Section On This Page"
+msgstr ""
+
+#: ../includes/options-definition.php:2032
+msgid "Callout Content"
+msgstr ""
+
+#: ../includes/options-definition.php:2039
+msgid "Callout Button Text"
+msgstr ""
+
+#: ../includes/options-definition.php:2046
+msgid "Callout Button Link"
+msgstr ""
+
+#: ../includes/options-definition.php:2092
+msgid "Enable Custom Footer Widgets"
+msgstr ""
+
+#: ../includes/options-definition.php:2099
+msgid "Display Footer Widgets On This Page"
+msgstr ""
+
+#: ../includes/options-definition.php:2106
+msgid "Footer Widgets Layout"
+msgstr ""
+
+#: ../includes/options-definition.php:2137
+msgid "Enable Custom Footer Content"
+msgstr ""
+
+#: ../includes/options-definition.php:2144
+msgid "Display Social Links On This Page"
+msgstr ""
+
+#: ../includes/options-definition.php:2204
+msgid "Show Portoflio Filter"
+msgstr ""
+
+#: ../includes/options.php:40 ../includes/options.php:114
+msgid "General"
+msgstr ""
+
+#: ../includes/options.php:41 ../includes/options.php:115
+msgid "Header"
+msgstr ""
+
+#: ../includes/options.php:42 ../includes/options.php:116
+msgid "Footer"
+msgstr ""
+
+#: ../includes/options.php:43
+msgid "Layout & Styles"
+msgstr ""
+
+#: ../includes/options.php:44
+msgid "Typography"
+msgstr ""
+
+#: ../includes/options.php:47
+msgid "Woocommerce"
+msgstr ""
+
+#: ../includes/options.php:48
+msgid "Under Construction"
+msgstr ""
+
+#: ../includes/options.php:84 ../includes/options.php:92
+msgid "Post Options"
+msgstr ""
+
+#: ../includes/options.php:107
+msgid "Page Options"
+msgstr ""
+
+#: ../includes/shortcodes/countdown.php:31
+msgid "Konstruct: Countdown"
+msgstr ""
+
+#: ../includes/shortcodes/countdown.php:33
+#: ../includes/shortcodes/counter.php:33 ../includes/shortcodes/iconbox.php:33
+#: ../includes/shortcodes/iconlist.php:43
+#: ../includes/shortcodes/iconlist.php:80
+#: ../includes/shortcodes/imagebox.php:28 ../includes/shortcodes/member.php:27
+#: ../includes/shortcodes/openhours.php:28
+#: ../includes/shortcodes/portfolio.php:19
+#: ../includes/shortcodes/pricing-table.php:40
+#: ../includes/shortcodes/testimonial.php:39
+#: ../includes/shortcodes/testimonial.php:116
+msgid "Konstruct"
+msgstr ""
+
+#: ../includes/shortcodes/countdown.php:37
+msgid "End Time"
+msgstr ""
+
+#: ../includes/shortcodes/countdown.php:39
+msgid "Enter time format following: YYYY/MM/DD hh:mm:ss"
+msgstr ""
+
+#: ../includes/shortcodes/countdown.php:44
+msgid "Hide Years"
+msgstr ""
+
+#: ../includes/shortcodes/countdown.php:51
+msgid "Hide Months"
+msgstr ""
+
+#: ../includes/shortcodes/countdown.php:58
+msgid "Hide Weeks"
+msgstr ""
+
+#: ../includes/shortcodes/countdown.php:65
+msgid "Hide Days"
+msgstr ""
+
+#: ../includes/shortcodes/countdown.php:72
+msgid "Hide Hours"
+msgstr ""
+
+#: ../includes/shortcodes/countdown.php:79
+msgid "Hide Minutes"
+msgstr ""
+
+#: ../includes/shortcodes/countdown.php:86
+msgid "Hide Seconds"
+msgstr ""
+
+#: ../includes/shortcodes/countdown.php:94
+#: ../includes/shortcodes/counter.php:90
+#: ../includes/shortcodes/iconbox.php:127
+#: ../includes/shortcodes/iconlist.php:67
+#: ../includes/shortcodes/iconlist.php:119
+#: ../includes/shortcodes/imagebox.php:95 ../includes/shortcodes/member.php:95
+#: ../includes/shortcodes/openhours.php:101
+#: ../includes/shortcodes/portfolio.php:84
+#: ../includes/shortcodes/posts.php:130
+#: ../includes/shortcodes/pricing-table.php:59
+#: ../includes/shortcodes/testimonial.php:103
+#: ../includes/shortcodes/testimonial.php:163
+msgid "Design Options"
+msgstr ""
+
+#: ../includes/shortcodes/countdown.php:99
+#: ../includes/shortcodes/counter.php:83
+#: ../includes/shortcodes/iconbox.php:120
+#: ../includes/shortcodes/imagebox.php:88 ../includes/shortcodes/member.php:79
+#: ../includes/shortcodes/openhours.php:106
+#: ../includes/shortcodes/portfolio.php:77
+#: ../includes/shortcodes/testimonial.php:156
+msgid "Extra Class"
+msgstr ""
+
+#: ../includes/shortcodes/counter.php:31
+msgid "Konstruct: Counter"
+msgstr ""
+
+#: ../includes/shortcodes/counter.php:37 ../includes/shortcodes/iconbox.php:37
+#: ../includes/shortcodes/openhours.php:44
+msgid "Icon"
+msgstr ""
+
+#: ../includes/shortcodes/counter.php:39 ../includes/shortcodes/iconbox.php:39
+#: ../includes/shortcodes/openhours.php:46
+#, php-format
+msgid ""
+"FontAwesome Icon name. <a href=\"%s\" target=\"blank\">Full list of icons</a>"
+msgstr ""
+
+#: ../includes/shortcodes/counter.php:44 ../includes/shortcodes/iconbox.php:71
+#: ../includes/shortcodes/imagebox.php:58 ../includes/shortcodes/member.php:37
+#: ../includes/shortcodes/openhours.php:51
+#: ../includes/shortcodes/testimonial.php:126
+msgid "Image"
+msgstr ""
+
+#: ../includes/shortcodes/counter.php:46 ../includes/shortcodes/iconbox.php:73
+#: ../includes/shortcodes/openhours.php:53
+msgid "Select image to replace the icon"
+msgstr ""
+
+#: ../includes/shortcodes/counter.php:64
+msgid "Prefix"
+msgstr ""
+
+#: ../includes/shortcodes/counter.php:70
+msgid "Suffix"
+msgstr ""
+
+#: ../includes/shortcodes/counter.php:76
+msgid "Duration"
+msgstr ""
+
+#: ../includes/shortcodes/iconbox.php:31
+msgid "Konstruct: Icon Box"
+msgstr ""
+
+#: ../includes/shortcodes/iconbox.php:52
+msgid "Title Element Tag"
+msgstr ""
+
+#: ../includes/shortcodes/iconbox.php:78
+msgid "Read More Link"
+msgstr ""
+
+#: ../includes/shortcodes/iconbox.php:80
+msgid "Enter custom url for read more button"
+msgstr ""
+
+#: ../includes/shortcodes/iconbox.php:87
+msgid "Enter custom text for read more button"
+msgstr ""
+
+#: ../includes/shortcodes/iconbox.php:88
+msgid "more..."
+msgstr ""
+
+#: ../includes/shortcodes/iconbox.php:93
+msgid "Icon Position"
+msgstr ""
+
+#: ../includes/shortcodes/iconbox.php:96
+msgid "Top"
+msgstr ""
+
+#: ../includes/shortcodes/iconbox.php:98
+msgid "Left Inline"
+msgstr ""
+
+#: ../includes/shortcodes/iconbox.php:105
+msgid "Icon Style"
+msgstr ""
+
+#: ../includes/shortcodes/iconbox.php:108
+msgid "Default"
+msgstr ""
+
+#: ../includes/shortcodes/iconbox.php:109
+msgid "Circle"
+msgstr ""
+
+#: ../includes/shortcodes/iconbox.php:110
+msgid "Circle Outline"
+msgstr ""
+
+#: ../includes/shortcodes/iconbox.php:111
+msgid "Rounded"
+msgstr ""
+
+#: ../includes/shortcodes/iconbox.php:112
+msgid "Rounded Outline"
+msgstr ""
+
+#: ../includes/shortcodes/iconbox.php:113
+msgid "Square"
+msgstr ""
+
+#: ../includes/shortcodes/iconbox.php:114
+msgid "Square Outline"
+msgstr ""
+
+#: ../includes/shortcodes/iconlist.php:38
+msgid "Konstruct: Icon List"
+msgstr ""
+
+#: ../includes/shortcodes/iconlist.php:47
+#: ../includes/shortcodes/iconlist.php:85
+msgid "List Icon"
+msgstr ""
+
+#: ../includes/shortcodes/iconlist.php:49
+#: ../includes/shortcodes/iconlist.php:87
+msgid "Default icon for all items in the list"
+msgstr ""
+
+#: ../includes/shortcodes/iconlist.php:53
+#: ../includes/shortcodes/iconlist.php:91
+msgid "List Image"
+msgstr ""
+
+#: ../includes/shortcodes/iconlist.php:55
+#: ../includes/shortcodes/iconlist.php:93
+msgid "Default image for all items in the list"
+msgstr ""
+
+#: ../includes/shortcodes/iconlist.php:59
+#: ../includes/shortcodes/iconlist.php:111
+#: ../includes/shortcodes/posts.php:122
+#: ../includes/shortcodes/pricing-table.php:51
+#: ../includes/shortcodes/testimonial.php:95
+msgid "Extra class name"
+msgstr ""
+
+#: ../includes/shortcodes/iconlist.php:61
+#: ../includes/shortcodes/iconlist.php:113
+#: ../includes/shortcodes/posts.php:124
+#: ../includes/shortcodes/pricing-table.php:53
+#: ../includes/shortcodes/testimonial.php:97
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../includes/shortcodes/iconlist.php:78
+msgid "Konstruct: Icon List Item"
+msgstr ""
+
+#: ../includes/shortcodes/iconlist.php:102
+msgid "Enable Icon Circle Style"
+msgstr ""
+
+#: ../includes/shortcodes/imagebox.php:26
+msgid "Konstruct: Image Box"
+msgstr ""
+
+#: ../includes/shortcodes/imagebox.php:39 ../includes/shortcodes/member.php:43
+#: ../includes/shortcodes/testimonial.php:132
+msgid "Subtitle"
+msgstr ""
+
+#: ../includes/shortcodes/imagebox.php:45
+msgid "Title Tag"
+msgstr ""
+
+#: ../includes/shortcodes/imagebox.php:64
+#: ../includes/shortcodes/openhours.php:38
+msgid "Description"
+msgstr ""
+
+#: ../includes/shortcodes/imagebox.php:70
+#: ../includes/shortcodes/testimonial.php:144
+msgid "Link"
+msgstr ""
+
+#: ../includes/shortcodes/imagebox.php:76
+msgid "Link Target"
+msgstr ""
+
+#: ../includes/shortcodes/imagebox.php:79
+msgid "_self"
+msgstr ""
+
+#: ../includes/shortcodes/imagebox.php:80
+msgid "_blank"
+msgstr ""
+
+#: ../includes/shortcodes/imagebox.php:81
+msgid "_parent"
+msgstr ""
+
+#: ../includes/shortcodes/imagebox.php:82
+msgid "_top"
+msgstr ""
+
+#: ../includes/shortcodes/member.php:25
+msgid "Konstruct: Team Member"
+msgstr ""
+
+#: ../includes/shortcodes/member.php:31
+#: ../includes/shortcodes/testimonial.php:120
+msgid "Name"
+msgstr ""
+
+#: ../includes/shortcodes/member.php:55
+msgid "Facebook URL"
+msgstr ""
+
+#: ../includes/shortcodes/member.php:61
+msgid "Twitter URL"
+msgstr ""
+
+#: ../includes/shortcodes/member.php:67
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../includes/shortcodes/member.php:73
+msgid "Google+ URL"
+msgstr ""
+
+#: ../includes/shortcodes/member.php:85
+msgid "Show Social Icons On Hover"
+msgstr ""
+
+#: ../includes/shortcodes/openhours.php:26
+msgid "Konstruct: Open Hours"
+msgstr ""
+
+#: ../includes/shortcodes/openhours.php:58
+msgid "Monday"
+msgstr ""
+
+#: ../includes/shortcodes/openhours.php:64
+msgid "Tuesday"
+msgstr ""
+
+#: ../includes/shortcodes/openhours.php:70
+msgid "Wednesday"
+msgstr ""
+
+#: ../includes/shortcodes/openhours.php:76
+msgid "Thursday"
+msgstr ""
+
+#: ../includes/shortcodes/openhours.php:82
+msgid "Friday"
+msgstr ""
+
+#: ../includes/shortcodes/openhours.php:88
+msgid "Saturday"
+msgstr ""
+
+#: ../includes/shortcodes/openhours.php:94
+msgid "Sunday"
+msgstr ""
+
+#: ../includes/shortcodes/portfolio.php:18
+msgid "Konstruct: Portfolio"
+msgstr ""
+
+#: ../includes/shortcodes/portfolio.php:23 ../includes/shortcodes/posts.php:35
+msgid "Category"
+msgstr ""
+
+#: ../includes/shortcodes/portfolio.php:52
+#: ../includes/widgets/recent-portfolios.php:121
+msgid "Number Of Items"
+msgstr ""
+
+#: ../includes/shortcodes/portfolio.php:59
+msgid "Enable Carousel Mode"
+msgstr ""
+
+#: ../includes/shortcodes/portfolio.php:66
+msgid "Show Filter"
+msgstr ""
+
+#: ../includes/shortcodes/portfolio.php:68
+msgid "If \"YES\" portfolio filter will be shown."
+msgstr ""
+
+#: ../includes/shortcodes/portfolio.php:71
+msgid "No"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:24
+msgid "Konstruct: Blog Posts"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:29
+#: ../includes/widgets/recent-portfolios.php:74
+#: ../includes/widgets/recent-posts.php:82
+msgid "Widget Title"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:31
+msgid ""
+"Enter text which will be used as widget title. Leave blank if no title is "
+"needed."
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:37
+msgid "Enter the category's slug that will be used to filter posts"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:41
+msgid "Tag"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:43
+msgid "Enter the tag's slug that will be used to filter posts"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:51
+#: ../includes/widgets/recent-posts.php:109
+msgid "List"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:59
+msgid "The number of columns for grid and grid masonry layout"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:69
+#: ../includes/widgets/recent-posts.php:136
+msgid "Limit"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:71
+msgid "The number of posts will be shown"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:76
+msgid "Offset"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:78
+msgid "The number of posts to pass over"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:83
+#: ../includes/widgets/recent-posts.php:143
+msgid "Icon For Posts"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:86
+#: ../includes/widgets/recent-posts.php:147
+msgid "Post Thumbnail"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:87
+#: ../includes/widgets/recent-posts.php:149
+msgid "Post Format Icon"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:88
+#: ../includes/widgets/recent-posts.php:148
+msgid "Post Date"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:93
+#: ../includes/widgets/recent-posts.php:155
+msgid "Hide Post Content"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:101
+msgid "Post Content Length"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:107
+msgid "Hide Read More"
+msgstr ""
+
+#: ../includes/shortcodes/posts.php:117
+#: ../includes/widgets/recent-posts.php:46
+#: ../includes/widgets/recent-posts.php:170
+msgid "Continue &rarr;"
+msgstr ""
+
+#: ../includes/shortcodes/pricing-table.php:38
+msgid "Konstruct: Pricing Table"
+msgstr ""
+
+#: ../includes/shortcodes/pricing-table.php:44
+msgid "Table ID"
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:34
+msgid "Konstruct: Testimonial Slider"
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:43
+msgid "Slider mode"
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:46
+msgid "Horizontal"
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:49
+msgid ""
+"Slides will be positioned horizontally (for horizontal swipes) or vertically "
+"(for vertical swipes)"
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:53
+msgid "Slider speed"
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:56
+msgid "Duration of animation between slides (in ms)"
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:60
+msgid "Slides per view"
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:63
+msgid ""
+"Set numbers of slides you want to display at the same time on slider's "
+"container for carousel mode. Supports also \"auto\" value, in this case it "
+"will fit slides depending on container's width. \"auto\" mode isn't "
+"compatible with loop mode."
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:67
+msgid "Slider autoplay"
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:69
+msgid "Enables autoplay mode."
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:74
+msgid "Hide pagination control"
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:76
+msgid "If YES pagination control will be removed."
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:81
+msgid "Hide prev/next buttons"
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:83
+msgid "If \"YES\" prev/next control will be removed."
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:88
+msgid "Slider loop"
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:90
+msgid "Enables loop mode."
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:114
+msgid "Konstruct: Testimonial"
+msgstr ""
+
+#: ../includes/shortcodes/testimonial.php:138
+msgid "Company"
+msgstr ""
+
+#: ../includes/structure.php:48
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:185
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../includes/template.php:57
+msgid "Posted By"
+msgstr ""
+
+#: ../includes/template.php:65
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: ../includes/template.php:81
+msgid "0 comment"
+msgstr ""
+
+#: ../includes/template.php:81
+msgid "1 Comment"
+msgstr ""
+
+#: ../includes/template.php:81
+msgid "% Comments"
+msgstr ""
+
+#: ../includes/template.php:87
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/widgets/recent-portfolios.php:19
+msgid "Konstruct: Recent Portfolios"
+msgstr ""
+
+#: ../includes/widgets/recent-portfolios.php:20
+msgid "Your site's most recent Portfolios."
+msgstr ""
+
+#: ../includes/widgets/recent-portfolios.php:70
+#: ../includes/widgets/recent-posts.php:76
+msgid "All Options"
+msgstr ""
+
+#: ../includes/widgets/recent-portfolios.php:75
+msgid "Recent Portfolios"
+msgstr ""
+
+#: ../includes/widgets/recent-portfolios.php:81
+#: ../includes/widgets/recent-posts.php:89
+msgid "Filter By Categories"
+msgstr ""
+
+#: ../includes/widgets/recent-portfolios.php:89
+#: ../includes/widgets/recent-posts.php:97
+msgid "Filter By Tags"
+msgstr ""
+
+#: ../includes/widgets/recent-portfolios.php:108
+#: ../includes/widgets/recent-posts.php:116
+msgid "Columns"
+msgstr ""
+
+#: ../includes/widgets/recent-portfolios.php:128
+msgid "Show As Carousel"
+msgstr ""
+
+#: ../includes/widgets/recent-portfolios.php:135
+msgid "Hide Filter"
+msgstr ""
+
+#: ../includes/widgets/recent-portfolios.php:142
+#: ../includes/widgets/recent-posts.php:176
+msgid "Extra Classes"
+msgstr ""
+
+#: ../includes/widgets/recent-posts.php:19
+msgid "Konstruct: Recent Posts"
+msgstr ""
+
+#: ../includes/widgets/recent-posts.php:20
+msgid "Your site's most recent Posts."
+msgstr ""
+
+#: ../includes/widgets/recent-posts.php:37
+#: ../includes/widgets/recent-posts.php:83
+msgid "Recent Posts"
+msgstr ""
+
+#: ../includes/widgets/recent-posts.php:129
+msgid "Posts Offset"
+msgstr ""
+
+#: ../includes/widgets/recent-posts.php:162
+msgid "Hide Read More Link"
+msgstr ""
+
+#: ../layout-page-blank.php:69 ../layout.php:105
+msgid "Goto Top"
+msgstr ""
+
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:178
+msgid "Browse:"
+msgstr ""
+
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:179
+#: ../templates/blocks/content/header.php:27
+msgid "Home"
+msgstr ""
+
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:180
+msgid "404 Not Found"
+msgstr ""
+
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:181
+msgid "Archives"
+msgstr ""
+
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:183
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:187
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:189
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:716
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:733
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:750
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:766
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:795
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:830
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:857
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:1044
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:767
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:831
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:1048
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:768
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:1052
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:796
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:1143
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:1179
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:1196
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:1227
+msgid "Edit"
+msgstr ""
+
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:1171
+msgid "Split"
+msgstr ""
+
+#: ../libraries/breadcrumb-trail/breadcrumb-trail.php:1175
+msgid "Merge"
+msgstr ""
+
+#: ../libraries/options-plus/customize/manager.php:104
+msgid "Untitled Section"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:81
+msgid "None"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:85
+msgid "Patterns"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:89
+msgid "Custom"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:109
+msgid "Background Image"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:113
+#: ../libraries/options-plus/options/control/image-picker.php:52
+#: ../libraries/options-plus/options/control/media-picker.php:49
+msgid "Drop a file here or"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:114
+#: ../libraries/options-plus/options/control/image-picker.php:53
+#: ../libraries/options-plus/options/control/media-picker.php:50
+msgid "select a file"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:125
+msgid "Background Repeat"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:129
+msgid "No Repeat"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:133
+msgid "Repeat X"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:137
+msgid "Repeat Y"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:141
+msgid "Repeat All"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:147
+msgid "Background Position"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:151
+msgid "Top Left"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:155
+msgid "Top Center"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:159
+msgid "Top Right"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:164
+msgid "Middle Left"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:168
+msgid "Middle Center"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:172
+msgid "Middle Right"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:177
+msgid "Bottom Left"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:181
+msgid "Bottom Center"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:185
+msgid "Bottom Right"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:191
+msgid "Background Style"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:199
+msgid "Scroll"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/background.php:203
+msgid "Cover"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/dropdown-pages.php:41
+#: ../libraries/options-plus/options/control/dropdown-sidebars.php:31
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/image-picker.php:58
+#: ../libraries/options-plus/options/control/media-picker.php:55
+msgid "Remove Image"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/images-gallery.php:58
+msgid "Add Files"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/media-input.php:54
+msgid "Browse..."
+msgstr ""
+
+#: ../libraries/options-plus/options/control/media-list.php:67
+msgid "Insert Image(s)"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/media-list.php:70
+msgid "Insert Video(s)"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/media-list.php:92
+msgid "All"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/media-list.php:99
+msgid "URL"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:36
+msgid "Thin 100"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:37
+msgid "Thin 100 italic"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:38
+msgid "Extra-light 200"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:39
+msgid "Extra-light 200 italic"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:40
+msgid "Light 300"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:41
+msgid "Light 300 italic"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:42
+msgid "Normal 400"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:43
+msgid "Normal 400 italic"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:44
+msgid "Medium 500"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:45
+msgid "Medium 500 italic"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:46
+msgid "Semi-bold 600"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:47
+msgid "Semi-bold 600 italic"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:48
+msgid "Bold 700"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:49
+msgid "Bold 700 italic"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:50
+msgid "Extra-bold 800"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:51
+msgid "Extra-bold 800 italic"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:52
+msgid "Ultra-bold 900"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:53
+msgid "Ultra-bold 900 italic"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:97
+msgid "Font Family"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:101
+msgid "System Fonts"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:106
+msgid "Google Fonts"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:120
+msgid "Font Size (px)"
+msgstr ""
+
+#: ../libraries/options-plus/options/control/typography.php:132
+msgid "Font Weight & Style"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:178
+#: ../libraries/plugin-activation/plugin-activation.php:1643
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:536
+#: ../libraries/plugin-activation/plugin-activation.php:2169
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1171
+msgid "Private Repository"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1174
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1179
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1182
+msgid "Required"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1182
+msgid "Recommended"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1185
+msgid "Not Installed"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1187
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1292
+#: ../libraries/plugin-activation/plugin-activation.php:1405
+msgid "Install"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1316
+#: ../libraries/plugin-activation/plugin-activation.php:1406
+msgid "Activate"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1368
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1384
+msgid "Plugin"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1385
+msgid "Source"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1386
+msgid "Type"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1387
+msgid "Status"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1935
+msgid "Install package not available."
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1936
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1937
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1938
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1939
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1940
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:1951
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:2065
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:2066
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:2066
+#: ../libraries/plugin-activation/plugin-activation.php:2075
+msgid "Show Details"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:2066
+#: ../libraries/plugin-activation/plugin-activation.php:2075
+msgid "Hide Details"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:2067
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:2068
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:2072
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:2073
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:2074
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:2075
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:2076
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../libraries/plugin-activation/plugin-activation.php:2077
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../search.php:46 ../templates/blocks/post/empty.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../search.php:47
+msgid "Sorry, no posts matched your criteria. Please try another search"
+msgstr ""
+
+#: ../search.php:49
+msgid ""
+"You might want to consider some of our suggestions to get better results:"
+msgstr ""
+
+#: ../search.php:51
+msgid "Check your spelling."
+msgstr ""
+
+#: ../search.php:52
+msgid "Try a similar keyword, for example: tablet instead of laptop."
+msgstr ""
+
+#: ../search.php:53
+msgid "Try using more than one keyword."
+msgstr ""
+
+#: ../templates/blocks/content/header-title.php:28
+msgid "Archive for: "
+msgstr ""
+
+#: ../templates/blocks/content/header-title.php:31
+msgid "Archive for category: "
+msgstr ""
+
+#: ../templates/blocks/content/header-title.php:34
+msgid "Archive for tag: "
+msgstr ""
+
+#: ../templates/blocks/content/header-title.php:39
+#, php-format
+msgid "Archive for year: %s"
+msgstr ""
+
+#: ../templates/blocks/content/header-title.php:42
+#, php-format
+msgid "Archive for month: %s"
+msgstr ""
+
+#: ../templates/blocks/content/header-title.php:45
+#, php-format
+msgid "Archive for date: %s"
+msgstr ""
+
+#: ../templates/blocks/content/header-title.php:54
+#, php-format
+msgid "Archive for author: %s"
+msgstr ""
+
+#: ../templates/blocks/content/header-title.php:61
+#, php-format
+msgid "%d search result for \"%s\""
+msgstr ""
+
+#: ../templates/blocks/content/header-title.php:63
+#, php-format
+msgid "%d search results for \"%s\""
+msgstr ""
+
+#: ../templates/blocks/content/header-title.php:75
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: ../templates/blocks/pagination.php:38 ../templates/blocks/pagination.php:53
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../templates/blocks/pagination.php:39 ../templates/blocks/pagination.php:52
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../templates/blocks/portfolio/related.php:44
+msgid "Related Portfolio"
+msgstr ""
+
+#: ../templates/blocks/post.php:55
+msgid "Pages:"
+msgstr ""
+
+#: ../templates/blocks/post.php:68
+msgid "Tags"
+msgstr ""
+
+#: ../templates/blocks/post/author.php:19
+msgid "About"
+msgstr ""
+
+#: ../templates/blocks/post/empty.php:14
+msgid "Sorry, no posts matched your criteria"
+msgstr ""
+
+#: ../templates/blocks/post/navigator.php:19
+msgid "Published In"
+msgstr ""
+
+#: ../templates/blocks/post/navigator.php:21
+msgid "Previous Post"
+msgstr ""
+
+#: ../templates/blocks/post/navigator.php:22
+msgid "Next Post"
+msgstr ""
+
+#: ../templates/blocks/post/related.php:38
+msgid "Related Posts"
+msgstr ""
+
+#: ../templates/vc/vc_button2.php:4
+msgid "Text on the button"
+msgstr ""
+
+#: ../templates/vc/vc_tabs.php:49
+msgid "Previous tab"
+msgstr ""
+
+#: ../templates/vc/vc_tabs.php:49
+msgid "Next tab"
+msgstr ""
